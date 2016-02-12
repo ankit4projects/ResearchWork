@@ -9,7 +9,8 @@ public class Implementation {
 			
 			@Override
 			public void run() {
-				System.out.println("Barrier 1 - Action Completed...");				
+				System.out.println("Barrier 1 - Action Completed...");
+				System.out.println("WI812 changes started...");
 			}
 		});
 		
